@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/32206">
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N9f24922abe8944f88ff26533a1cd3e76">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N97e4d6515f134b7b8b57f07672d88dde">
+        <rdf:value>Utah Artillery</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/32206.plucker">
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6d201f53fd7145f19fe8c85be2ddb4ce">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-03T04:23:29.173559</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140648</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/32206.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180932</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ncf06e1a6189d4dbe82104d2e0803a8ba">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-03T04:23:32.775958</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N870e684000e6462c96fcfc07784aab40">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/32206/32206.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne9037c76d5fb4cdc98a5946734ca3ef9">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88421</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb2a5e4bdd3e64709bd22be6fd74202b5">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-01T22:00:56</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N0becf820f2054334bf70cfb80fb4e3c1">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>DS</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/32206/32206-h/32206-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">283543</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-01T22:00:52</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N60b304b4985447ee949775e6c457e9ea">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/32206.txt.utf-8">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-03T04:23:30.134609</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253909</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd437eaf6a23545f993372d71ac5be226">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/32206.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114661</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7a64d9611b4e4dfa8c2bc2560e874dac">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-06-29T19:10:24.850796</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N2851fe165b5f4b41a33f2a0846b7844b">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Utah -- Biography</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-05-02</dcterms:issued>
+    <dcterms:title>The Utah Batteries: A History&#13;
+A complete account of the muster-in, sea voyage, battles, skirmishes and barrack life of the Utah batteries, together with biographies of officers and muster-out rolls.</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/32206.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndb4a678809d44ef884ca6a8c598c6c0d">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646795</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-06-29T19:10:25.402254</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/35722">
+        <pgterms:name>Mabey, Charles Rendell</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1877</pgterms:birthdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/32206.qioo">
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150239</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-03T04:23:24.009727</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na1cfd0ae970544b59ae9ae46f31e71ea">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/32206.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">712652</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-03T04:23:34.774964</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N36f45b98dba9433294b7a7dae501ee4e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc010>00001466</pgterms:marc010>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/32206/32206-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N373502eb792b4f4da41074d84fbd6b89">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-01T22:00:56</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N46bcf6c1b042455682f4582cc45cf099">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">621627</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Ncdb5a1b3829c43c7ab5dffd162d89b7f">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Philippines -- History -- Philippine American War, 1899-1902 -- Regimental histories -- United States</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/32206/32206.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-01T22:00:52</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253941</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/32206"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na9889025742d41e98eb2fba18ba057f0">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nbc7f2c618d4a434d86323500d721421f">
+        <rdf:value>Spanish-American War, 1898 -- Regimental histories -- United States</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+  </cc:Work>
+</rdf:RDF>
