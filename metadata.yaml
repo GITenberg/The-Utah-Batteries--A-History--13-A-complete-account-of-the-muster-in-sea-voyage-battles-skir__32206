@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35722'
     url: http://www.gutenberg.org/2009/agents/35722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32206#The-Utah-Batteries--A-History--13-A-complete-account-of-the-muster-in-sea-voyage-battles-skir_
 gutenberg_issued: '2010-05-02'
 gutenberg_type: Text
 identifiers:
