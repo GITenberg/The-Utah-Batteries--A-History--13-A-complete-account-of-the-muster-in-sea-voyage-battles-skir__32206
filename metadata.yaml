@@ -1,0 +1,32 @@
+_repo: The-Utah-Batteries--A-History--13-A-complete-account-of-the-muster-in-sea-voyage-battles-skir__32206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mabey, Charles Rendell
+    birthdate: 1877
+    gutenberg_agent_id: '35722'
+    url: http://www.gutenberg.org/2009/agents/35722
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32206'
+  lccn: '00001466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utah -- Biography'
+- !lcsh 'Utah Artillery'
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories -- United States'
+- !lcsh 'Philippines -- History -- Philippine American War, 1899-1902 -- Regimental
+  histories -- United States'
+- !lcc 'DS'
+title: "The Utah Batteries: A History\r\nA complete account of the muster-in, sea\
+  \ voyage, battles, skirmishes and barrack life of the Utah batteries, together with\
+  \ biographies of officers and muster-out rolls."
+url: http://www.gutenberg.org/ebooks/32206
